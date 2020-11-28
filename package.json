@@ -1,6 +1,6 @@
 {
   "name": "dudb.js",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Node.js Wrapper for the Dangerous User Databse",
   "main": "index.js",
   "scripts": {
