@@ -1,0 +1,31 @@
+{
+  "name": "dudb.js",
+  "version": "0.0.6",
+  "description": "Node.js Wrapper for the Dangerous User Databse",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agiliro/dudb.js.git"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "dudb",
+    "api",
+    "nodejs"
+  ],
+  "author": "Milan Mehra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agiliro/dudb.js/issues"
+  },
+  "homepage": "https://npmjs.org/dudb.js"
+}
