@@ -12,7 +12,7 @@ Node.js Wrapper for the Dangerous User Databse
 <a href="https://www.npmjs.com/package/dudb.js"><img src="https://img.shields.io/npm/v/dudb.js.svg?maxAge=3600" alt="NPM version" /></a>
 <a href="https://www.npmjs.com/package/dudb.js"><img src="https://img.shields.io/npm/dt/dudb.js.svg?maxAge=3600" alt="NPM downloads" /></a>
 <a href="https://david-dm.org/milanmdev/dudb.js"><img src="https://img.shields.io/david/milanmdev/dudb.js.svg?maxAge=3600" alt="Dependencies" /></a>
-<a href="https://www.npmjs.com/package/dudb.js"><img src="https://api.ghprofile.me/view?username=milanmdev-dudb.js&style=flat" alt="Repository view count" /></a>
+<a href="https://www.npmjs.com/package/dudb.js"><img src="https://api.ghprofile.me/view?username=milanmdev-dudb.js&label=repository%20view%20count&style=flat" alt="Repository view count" /></a>
 </p>
 
 <br>
