@@ -14,6 +14,12 @@ Now you can use any of the funcitons below!
 
 ### Checking a user
 ```js
-dudb.check("423203831971708958").then(result => console.log(result));
+dudb.check("USER_ID").then(result => console.log(result));
 ```
-The code above should return a 200 OK message, as long as I keep my discord account :D
+The code above should return a 200 OK message. (JSON)
+
+### Reporting a user
+```js
+dudb.report("USER_ID", "API_TOKEN", "REASON").then(result => console.log(result));
+```
+The code above should return a 200 OK message. (JSON: Success)
