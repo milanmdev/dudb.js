@@ -1,5 +1,26 @@
+<div align="center">
+  <br>
+
 # dudb.js
+<br>
+<p>
 Node.js Wrapper for the Dangerous User Databse
+</p>
+<br>
+<p>
+<br>
+<a href="https://www.npmjs.com/package/dudb.js"><img src="https://img.shields.io/npm/v/dudb.js.svg?maxAge=3600" alt="NPM version" /></a>
+<a href="https://www.npmjs.com/package/dudb.js"><img src="https://img.shields.io/npm/dt/dudb.js.svg?maxAge=3600" alt="NPM downloads" /></a>
+<a href="https://david-dm.org/milanmdev/dudb.js"><img src="https://img.shields.io/david/milanmdev/dudb.js.svg?maxAge=3600" alt="Dependencies" /></a>
+</p>
+
+<br>
+
+<p>
+<a href="https://nodei.co/npm/dudb.js/"><img src="https://nodei.co/npm/dudb.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
+</p>
+
+</div>
 
 # Usage
 
