@@ -4,7 +4,11 @@ Node.js Wrapper for the Dangerous User Databse
 # Usage
 
 ## Add the package
-To start, you will need to add the package. To do that, simply run `npm i dudb.js`. Now you can use any of the funcitons below!
+To start, you will need to add the package. To do that, simply run `npm i dudb.js`. In your code, add the following:
+```js
+const dudb = require("dudb.js");
+```
+Now you can use any of the funcitons below!
 
 ---
 
