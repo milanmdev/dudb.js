@@ -4,7 +4,7 @@
 # dudb.js
 <br>
 <p>
-Node.js Wrapper for the Dangerous User Databse
+RESTful Node.js API Wrapper to interact with the Discord Dangerous User Database at "discord.riverside.rocks"
 </p>
 <br>
 <p>
