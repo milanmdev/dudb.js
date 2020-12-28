@@ -30,7 +30,7 @@ To start, you will need to add the package. To do that, simply run `npm i dudb.j
 ```js
 const dudb = require("dudb.js");
 ```
-Now you can use any of the funcitons below!
+Now you can use any of the functions below!
 
 ---
 

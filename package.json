@@ -1,6 +1,6 @@
 {
   "name": "dudb.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "RESTful Node.js API Wrapper to interact with the Discord Dangerous User Database at \"discord.riverside.rocks\"",
   "main": "index.js",
   "scripts": {
